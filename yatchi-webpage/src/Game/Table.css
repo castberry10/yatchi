@@ -1,0 +1,17 @@
+
+.ScoreTable {
+    border: 1px solid black;
+    border-collapse: collapse;
+    width: 90%;
+    height: 90%;
+    margin: 5%;
+}
+
+.ScoreTable col {
+    font-weight: bold;
+}
+
+.ScoreTable td {
+    border: 1px solid black;
+    text-align: center;
+}
